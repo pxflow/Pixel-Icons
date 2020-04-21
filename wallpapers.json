@@ -1,65 +1,51 @@
-{
-  "Collections": [
-     {
-      "name": "",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-    },
-    {
-      "name": "",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-    }
-  ],
-  "Wallpapers": [
-  	{
-      "name": "Wallpaper 7",
-      "author": "pixelflow",
-      "url": "https://raw.githubusercontent.com/pxflow/files/master/wallpapers/Wallpaper%207.png",
-      "thumbnail": "https://raw.githubusercontent.com/pxflow/files/master/wallpapers/thumbnails/Wallpaper%207.png",
-      "downloadable": true
-    },
-    {
-      "name": "Wallpaper 6",
-      "author": "pixelflow",
-      "url": "https://raw.githubusercontent.com/pxflow/files/master/wallpapers/Wallpaper%206.png",
-      "thumbnail": "https://raw.githubusercontent.com/pxflow/files/master/wallpapers/thumbnails/Wallpaper%206.png",
-      "downloadable": true
-    },
-  	{
-      "name": "Wallpaper 5",
-      "author": "pixelflow",
-      "url": "https://raw.githubusercontent.com/pxflow/files/master/wallpapers/Wallpaper%205.png",
-      "thumbnail": "https://raw.githubusercontent.com/pxflow/files/master/wallpapers/thumbnails/Wallpaper%205.png",
-      "downloadable": true
-    },
-  	{
-      "name": "Wallpaper 4",
-      "author": "pixelflow",
-      "url": "https://raw.githubusercontent.com/pxflow/files/master/wallpapers/Wallpaper%204.png",
-      "thumbnail": "https://raw.githubusercontent.com/pxflow/files/master/wallpapers/thumbnails/Wallpaper%204.png",
-      "downloadable": true
-    },
-   	{
-      "name": "Wallpaper 3",
-      "author": "pixelflow",
-      "url": "https://raw.githubusercontent.com/pxflow/files/master/wallpapers/Wallpaper%203.png",
-      "thumbnail": "https://raw.githubusercontent.com/pxflow/files/master/wallpapers/thumbnails/Wallpaper%203.png",
-      "downloadable": true
-    },
-   	{
-      "name": "Wallpaper 2",
-      "author": "pixelflow",
-      "url": "https://raw.githubusercontent.com/pxflow/files/master/wallpapers/Wallpaper%202.png",
-      "thumbnail": "https://raw.githubusercontent.com/pxflow/files/master/wallpapers/thumbnails/Wallpaper%202.png",
-      "downloadable": true
-    },
-   	{
-      "name": "Wallpaper 1",
-      "author": "pixelflow",
-      "url": "https://raw.githubusercontent.com/pxflow/files/master/wallpapers/Wallpaper%201.png",
-      "thumbnail": "https://raw.githubusercontent.com/pxflow/files/master/wallpapers/thumbnails/Wallpaper%201.png",
-      "downloadable": true
-    }
+[
+   {
+		"name": "Wallpaper 7",
+		"author": "pixelflow",
+		"url": "https://raw.githubusercontent.com/pxflow/Pixel-Icons/master/wallpapers/Wallpaper%207.png",
+		"thumbnail": "https://raw.githubusercontent.com/pxflow/Pixel-Icons/master/wallpapers/thumbnails/Wallpaper%207.png",
+		"downloadable": true
+	 },
+   {
+		"name": "Wallpaper 6",
+		"author": "pixelflow",
+		"url": "https://raw.githubusercontent.com/pxflow/Pixel-Icons/master/wallpapers/Wallpaper%206.png",
+		"thumbnail": "https://raw.githubusercontent.com/pxflow/Pixel-Icons/master/wallpapers/thumbnails/Wallpaper%206.png",
+		"downloadable": true
+	 },
+  {
+		"name": "Wallpaper 5",
+		"author": "pixelflow",
+		"url": "https://raw.githubusercontent.com/pxflow/Pixel-Icons/master/wallpapers/Wallpaper%205.png",
+		"thumbnail": "https://raw.githubusercontent.com/pxflow/Pixel-Icons/master/wallpapers/thumbnails/Wallpaper%205.png",
+		"downloadable": true
+	 },
+  {
+		"name": "Wallpaper 4",
+		"author": "pixelflow",
+		"url": "https://raw.githubusercontent.com/pxflow/Pixel-Icons/master/wallpapers/Wallpaper%204.png",
+		"thumbnail": "https://raw.githubusercontent.com/pxflow/Pixel-Icons/master/wallpapers/thumbnails/Wallpaper%204.png",
+		"downloadable": true
+	 },
+  {
+		"name": "Wallpaper 3",
+		"author": "pixelflow",
+		"url": "https://raw.githubusercontent.com/pxflow/Pixel-Icons/master/wallpapers/Wallpaper%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/pxflow/Pixel-Icons/master/wallpapers/thumbnails/Wallpaper%203.png",
+		"downloadable": true
+	 },
+  {
+		"name": "Wallpaper 2",
+		"author": "pixelflow",
+		"url": "https://raw.githubusercontent.com/pxflow/Pixel-Icons/master/wallpapers/Wallpaper%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/pxflow/Pixel-Icons/master/wallpapers/thumbnails/Wallpaper%202.png",
+		"downloadable": true
+	 },
+  {
+		"name": "Wallpaper 1",
+		"author": "pixelflow",
+		"url": "https://raw.githubusercontent.com/pxflow/Pixel-Icons/master/wallpapers/Wallpaper%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/pxflow/Pixel-Icons/master/wallpapers/thumbnails/Wallpaper%201.png",
+		"downloadable": true
+	 }
   ]
-}
